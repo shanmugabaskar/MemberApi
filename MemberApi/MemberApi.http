@@ -1,0 +1,6 @@
+@MemberApi_HostAddress = http://localhost:5196
+
+GET {{MemberApi_HostAddress}}/member/
+Accept: application/json
+
+###
